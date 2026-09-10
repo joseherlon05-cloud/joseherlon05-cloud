@@ -42,7 +42,7 @@ Projeto utilizando ESP e sensores para identificar obstáculos.
 
 ## 📫 Contato
 
-[LinkedIn](SEU_LINKEDIN)
+[LinkedIn](https://www.linkedin.com/in/jos%C3%A9-braz-515a5142a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B6qtpAUuHTxuy7vO5vG%2F8wQ%3D%3D)
 
 [GitHub](https://github.com/joseherlon05-cloud)
 
