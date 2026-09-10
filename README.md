@@ -1,4 +1,4 @@
-## # José Braz 👋
+## José Braz 👋
 
 🎓 Ciência da Computação
 
