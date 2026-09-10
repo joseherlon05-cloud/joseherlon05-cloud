@@ -1,4 +1,12 @@
-## Hi there 👋
+## # José Braz 👋
+
+🎓 Ciência da Computação
+
+💻 JavaScript | C++ | HTML
+
+🔐 Interesse em Desenvolvimento de Software e Cybersecurity
+
+📍 Fortaleza, CE
 
 <!--
 **joseherlon05-cloud/joseherlon05-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
